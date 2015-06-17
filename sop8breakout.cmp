@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2015-06-03 BZR 5697)-product   date = 2015 June 05, Friday 22:50:51
+Cmp-Mod V01 Created by Cvpcb (2015-06-03 BZR 5697)-product   date = 2015 June 17, Wednesday 23:51:15
 
 BeginCmp
 TimeStamp = /55721724;
 Reference = IC1;
 ValeurCmp = MCP6002;
-IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
+IdModule  = sop8:SOP-8;
 EndCmp
 
 BeginCmp
